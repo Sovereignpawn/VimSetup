@@ -1,5 +1,5 @@
 " put this file here:  ~/.vim/plugin
-" if the "plugin" directory doesnt exist, create it
+" if the "plugin" location and directory doesnt exist, create it.
 "
 " Change the color scheme from a list of color scheme names.
 " Version 2010-09-12 from http://vim.wikia.com/wiki/VimTip341
