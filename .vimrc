@@ -1,3 +1,8 @@
+"the location of this file should be /~
+execute pathogen#infect()
+filetype plugin indent on
+syntax on
+
 set shell=/bin/bash
 runtime macros/matchit.vim
 
@@ -150,7 +155,7 @@ set t_Co=256
 " Color scheme
 " let $NVIM_TUI_ENABLE_TRUE_COLOR=1
 set background=dark " or light
-colorscheme molokai
+colorscheme badwolf
 
 
 " Numbers
